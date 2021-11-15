@@ -1,17 +1,7 @@
-const fs = require("fs");
 
-function renderLicenseBadge(license) {}
-
-function renderLicenseLink(license) {}
-
-function renderLicenseSection(license) {}
-
-// section for read markdown
-function generateMarkdown(data) {
-  return `
-  # ${data.projectName}
+  # ghrg
   ## Project Description
-  ${data.description}
+  ggdr
   # Table of Contents
   1. [Description](#project-description)
   2. [LicenseType](#license)
@@ -20,8 +10,8 @@ function generateMarkdown(data) {
 
  
   ## License
-  ![GitHub License](https://img.shields.io/badge/license-${data.licenseType}-blue.svg)
-  Licensed under ${data.licenseType}
+  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+  Licensed under MIT
 
   ## Installation
   * Download your repo to VS code. 
@@ -33,18 +23,14 @@ function generateMarkdown(data) {
   
   
   ## Questions
-  If you have any questions you can email me at ${data.email}
-  See all of my work at GitHub [${data.github}](https://github.com/karmadog72)
+  If you have any questions you can email me at dfgdf
+  See all of my work at GitHub [undefined](https://github.com/karmadog72)
   
   ## Testing 
-  ${data.testing} 
+  rfgh 
 
   ## Video Walk Through
   ![Video-Link](https://watch.screencastify.com/v/IsF3B1nOQqkMZt3alRvZ)
 
   ## Image Example
   ![Image-Example](/utils/images/readme-pic.PNG?raw=true)
-`;
-}
-
-module.exports = generateMarkdown;
