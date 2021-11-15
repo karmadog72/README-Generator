@@ -1,7 +1,7 @@
 
-  # ghrg
+  # README-Generator
   ## Project Description
-  ggdr
+    This project is an instructional application on how to install and generate a professional Readme.md for your GitHub Repository.
   # Table of Contents
   1. [Description](#project-description)
   2. [LicenseType](#license)
@@ -23,11 +23,11 @@
   
   
   ## Questions
-  If you have any questions you can email me at dfgdf
+  If you have any questions you can email me at danika.m.pearson@gmail.com
   See all of my work at GitHub [undefined](https://github.com/karmadog72)
   
   ## Testing 
-  rfgh 
+  N/A 
 
   ## Video Walk Through
   ![Video-Link](https://watch.screencastify.com/v/IsF3B1nOQqkMZt3alRvZ)
